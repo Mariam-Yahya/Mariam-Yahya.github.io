@@ -1,3 +1,4 @@
+This is the full page, how can I use a smaller font:
 ---
 layout: archive
 title: ""
@@ -6,9 +7,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<div class="small-font">
 {% include base_path %}
-
+<span style="font-size:11px;">
 Education
 ======
 - **Ph.D. Student in the Decision Making Group** *(Oct. 2020 – Present)*  
@@ -61,5 +61,5 @@ Supervision
   **Team Project Supervision**  
   - Co-supervised a team project for the Software Engineering Course (8 students)  
    - Project: *A Multi-Armed Bandit Framework for Movie Recommendation*
-</div>
 
+</span>
