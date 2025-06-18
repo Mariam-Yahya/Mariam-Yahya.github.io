@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<span style="font-size:12px;">Smaller text here</span>
+<span style="font-size:11px;">Smaller text here</span>
 {% include base_path %}
 
 Education
