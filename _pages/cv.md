@@ -1,4 +1,3 @@
-This is the full page, how can I use a smaller font:
 ---
 layout: archive
 title: ""
