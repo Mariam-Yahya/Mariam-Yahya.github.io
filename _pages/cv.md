@@ -1,3 +1,4 @@
+This is the full page, how can I use a smaller font:
 ---
 layout: archive
 title: ""
@@ -6,6 +7,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
 
 Education
