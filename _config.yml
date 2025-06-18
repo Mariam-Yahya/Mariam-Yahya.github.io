@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Webpage"
+title                    : "Mariam Yahya"
 title_separator          : "-"
 name                     : &name "Mariam Yahya"
 description              : &description "PhD Student"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PP2.png"
+  avatar           : "PP2.jpeg"
   name             : "Mariam Yahya"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
