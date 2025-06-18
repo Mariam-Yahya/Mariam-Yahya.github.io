@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<span style="font-size:11px;">Smaller text here</span>
+<div class="small-font">
 {% include base_path %}
 
 Education
@@ -61,4 +61,5 @@ Supervision
   **Team Project Supervision**  
   - Co-supervised a team project for the Software Engineering Course (8 students)  
    - Project: *A Multi-Armed Bandit Framework for Movie Recommendation*
+</div>
 
