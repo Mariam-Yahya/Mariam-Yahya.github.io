@@ -31,16 +31,16 @@ Work experience
 ======
 - **Communications Engineering Lecturer** *(Jan. 2016 – Oct. 2020)*  
  **Palestine Technical University - Kadoorie, Palestine**  
-   *Taught courses including Wireless Communications, Signals and Systems, Analog Communications, and Digital Design  
-   *Delivered communications courses in the vocational-education (two-year) program  
-   *Served as Coordinator of the communications vocational-education program  
-   *Two-time member of the national examination committee  
+   *Taught courses including Wireless Communications, Signals and Systems, Analog Communications, and Digital Design.
+   *Delivered communications courses in the vocational-education (two-year) program.  
+   *Served as Coordinator of the communications vocational-education program.  
+   *Two-time member of the national examination committee.  
 
 - **Research Visitor** *(Jun. 2017 – Aug. 2017)*  
   **University College London, United Kingdom**  
-   *Conducted a three-month research visit to the Communications and Information Systems Group, Department of Electrical Engineering  
-   *Supervised by Prof. Dr. Izzat Darwazeh  
-   *Focused on signal detection using neural networks, non-orthogonal communication systems, and bandwidth-efficient OFDM signals
+   *Conducted a three-month research visit to the Communications and Information Systems Group, Department of Electrical Engineering.  
+   *Supervised by Prof. Dr. Izzat Darwazeh.  
+   *Focused on signal detection using neural networks, non-orthogonal communication systems, and bandwidth-efficient OFDM signals.
 
 - **Communications Engineering Lecturer – Part-Time** *(Feb. 2015 – Dec. 2015)*  
   **Palestine Polytechnic University and Palestine Technical University, Palestine**
@@ -55,7 +55,7 @@ Supervision
   - *Anis Ben-Ghanem* (Feb. 2023 – Jun. 2023)  
     Thesis: *Client Selection in Hierarchical Federated Learning*
 
-  - *Julius Rau* (April 2023 – Present)  
+  - *Julius Rau* (April 2023 – Oct. 2023)  
    Thesis: *Multi-Armed Bandit-Based Client Selection for Federated Learning*
 
   **Team Project Supervision**  
