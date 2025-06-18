@@ -11,38 +11,40 @@ redirect_from:
 
 Education
 ======
-- **Ph.D. Student in the Decision Making Group**      *Oct. 2020 – Present* 
-  **Department of Computer Science, University of Tübingen, Germany  **
+- **Ph.D. Student in the Decision Making Group** *(Oct. 2020 – Present)*  
+  **Department of Computer Science, University of Tübingen, Germany**  
   Full scholarship from The German Academic Exchange Service (DAAD)
 
-- **M.Sc. in Wireless Communications / Electrical Engineering**  *Sept. 2012 – Aug. 2014*  
-  **Jordan University of Science and Technology (JUST), Jordan  **
+- **M.Sc. in Wireless Communications / Electrical Engineering** *(Sept. 2012 – Aug. 2014)*  
+  **Jordan University of Science and Technology (JUST), Jordan**  
   Grade: 89/100, Excellent  
   Full scholarship from The German Academic Exchange Service (DAAD)
 
 - **B.Sc. in Electrical Engineering / Communications**  
- ** Birzeit University, Palestine  **
+  **Birzeit University, Palestine**  
   Grade: 84/100, Very good  
   With a minor degree in Business Administration
 
 
+
 Work experience
 ======
-- **Communications Engineering Lecturer**  *Jan. 2016 – Oct. 2020*    
- ** Palestine Technical University - Kadoorie, Palestine  **
+- **Communications Engineering Lecturer** *(Jan. 2016 – Oct. 2020)*  
+  **Palestine Technical University - Kadoorie, Palestine**  
   - Taught courses including Wireless Communications, Signals and Systems, Analog Communications, and Digital Design  
-  - Delivered communications courses in the vocational-education (two-year) program
+  - Delivered communications courses in the vocational-education (two-year) program  
   - Served as Coordinator of the communications vocational-education program  
   - Two-time member of the national examination committee  
 
-- **Research Visitor**    *Jun. 2017 – Aug. 2017*  
-  **University College London, United Kingdom ** 
+- **Research Visitor** *(Jun. 2017 – Aug. 2017)*  
+  **University College London, United Kingdom**  
   - Conducted a three-month research visit to the Communications and Information Systems Group, Department of Electrical Engineering  
   - Supervised by Prof. Dr. Izzat Darwazeh  
   - Focused on signal detection using neural networks, non-orthogonal communication systems, and bandwidth-efficient OFDM signals
 
-- **Communications Engineering Lecturer- Part-Time**  *Feb. 2015 - Dec. 2015*
--** Palestine Polytechnic University and Palestine Technical University - Palestine**
+- **Communications Engineering Lecturer – Part-Time** *(Feb. 2015 – Dec. 2015)*  
+  **Palestine Polytechnic University and Palestine Technical University, Palestine**
+
 
 Supervision
 ======
