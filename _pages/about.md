@@ -16,5 +16,5 @@ I am a Postdoctoral Researcher in the Learning Technical Systems group at Ruhr U
 <ul style="margin-top: 0; padding-left: 18px;">
   <li>Online learning, with a focus on bandit learning.</li>
   <li>Communication systems, with emphasis on edge networks.</li>
-  <li>Distributed learning, particularily federated learning and its applications to 5G and future 6G+ systems.</li>
+  <li>Distributed learning, particularily federated learning and its applications to 5G and future 6G systems.</li>
 </ul>
