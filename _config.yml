@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfilePhoto.jpg"
+  avatar           : "MariamPhoto.jpg"
   name             : "Mariam Yahya"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
-  location         : "Tübingen, Germany"
-  employer         : "University of Tübingen"
+  bio              : "Postdoctoral Researcher"
+  location         : "Bochum, Germany"
+  employer         : "Ruhr University Bochum"
   uri              : # URL
   email            : "Mariam.Yahya@ruhr-uni-bochum.de" 
 
