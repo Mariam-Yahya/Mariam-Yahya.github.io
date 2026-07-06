@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<p>
+I am a Postdoctoral Researcher in the Learning Technical Systems group at Ruhr University Bochum. Prior to this, I completed my PhD in the Computer Science Department at the University of Tübingen.
+</p>
 
-======
+<p style="margin-bottom: 5px;">Research interests:</p>
 
-I am a final-year PhD student in the Computer Science Department at the University of Tübingen, where I joined the Decision Making Group in October 2020. The group has since relocated to Ruhr University Bochum. With a background in wireless communications, my research interests lie at the intersection of communication systems, online learning, and distributed learning. My work focuses on designing and applying algorithms to optimize the performance of communication systems operating under high uncertainty within increasingly autonomous and heterogeneous networks.
+<ul style="margin-top: 0; padding-left: 18px;">
+  <li>Online learning, with a focus on bandit learning</li>
+  <li>Communication systems, with emphasis on edge networks</li>
+  <li>Distributed learning, especially federated learning</li>
+  <li>Applications to 5G and future 6G+ systems</li>
+</ul>
