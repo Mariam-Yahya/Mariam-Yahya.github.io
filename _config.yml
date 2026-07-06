@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ProfilePic.jpg"
+  avatar           : "ProfilePhoto.jpg"
   name             : "Mariam Yahya"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
   location         : "Tübingen, Germany"
   employer         : "University of Tübingen"
   uri              : # URL
-  email            : "mariam.yahya@uni-tuebingen.de" 
+  email            : "Mariam.Yahya@ruhr-uni-bochum.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
