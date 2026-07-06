@@ -52,7 +52,7 @@ Work experience
 Supervision
 ======
 -  Department of Computer Science, University of Tübingen, Germany  
-  *Oct. 2020 – Present*  
+  *Oct. 2020 – Dec. 2025*  
 
   **Bachelor Theses Supervision**  
   - *Anis Ben-Ghanem* (Feb. 2023 – Jun. 2023)  
