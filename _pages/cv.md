@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- **Ph.D. Student in the Decision Making Group** *(Oct. 2020 – Present)*  
+- **Ph.D. Student in the Decision Making Group** *(Oct. 2020 – Dec. 2025)*  
   **Department of Computer Science, University of Tübingen, Germany**  
  Full scholarship from The German Academic Exchange Service (DAAD)
 
@@ -29,6 +29,9 @@ Education
 
 Work experience
 ======
+- **Postdoctoral Researcher** *(Nov. 2025 – Present)*  
+ **Ruhr University Bochum - Learning Technical Systems**
+
 - **Communications Engineering Lecturer** *(Jan. 2016 – Oct. 2020)*  
  **Palestine Technical University - Kadoorie, Palestine**  
    *Taught courses including Wireless Communications, Signals and Systems, Analog Communications, and Digital Design.
