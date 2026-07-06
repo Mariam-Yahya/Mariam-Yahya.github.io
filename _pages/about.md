@@ -11,11 +11,10 @@ redirect_from:
 I am a Postdoctoral Researcher in the Learning Technical Systems group at Ruhr University Bochum. Prior to this, I completed my PhD in the Computer Science Department at the University of Tübingen.
 </p>
 
-<p style="margin-bottom: 5px;">Research interests:</p>
+<p style="margin-bottom: 5px;">My research interests lie at the intersection of:</p>
 
 <ul style="margin-top: 0; padding-left: 18px;">
-  <li>Online learning, with a focus on bandit learning</li>
-  <li>Communication systems, with emphasis on edge networks</li>
-  <li>Distributed learning, especially federated learning</li>
-  <li>Applications to 5G and future 6G+ systems</li>
+  <li>Online learning, with a focus on bandit learning.</li>
+  <li>Communication systems, with emphasis on edge networks.</li>
+  <li>Distributed learning, particularily federated learning and its applications to 5G and future 6G+ systems.</li>
 </ul>
