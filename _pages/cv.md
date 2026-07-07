@@ -22,7 +22,6 @@ Education
 
 - **B.Sc. in Electrical Engineering / Communications**  
  **Birzeit University, Palestine**  
- Grade: 84/100, Very good  
   With a minor degree in Business Administration
 
 
@@ -51,6 +50,11 @@ Work experience
 
 Supervision
 ======
+-  Learning Technical Systems, Faculty for Electrical Engineering and Information Technology
+  Ruhr University Bochum, Germany  
+  *Dec. 2025 - Present*
+   6GEM+ Project  
+
 -  Department of Computer Science, University of Tübingen, Germany  
   *Oct. 2020 – Dec. 2025*  
 
