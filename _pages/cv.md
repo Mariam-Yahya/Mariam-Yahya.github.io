@@ -50,21 +50,22 @@ Work experience
 
 Supervision
 ======
--  Learning Technical Systems, Faculty for Electrical Engineering and Information Technology
-  Ruhr University Bochum, Germany  
+-  **Learning Technical Systems, Faculty for Electrical Engineering and Information Technology** 
+  **Ruhr University Bochum, Germany**  
   *Dec. 2025 - Present*
+   
    6GEM+ Project  
 
--  Department of Computer Science, University of Tübingen, Germany  
+-  **Department of Computer Science, University of Tübingen, Germany**  
   *Oct. 2020 – Dec. 2025*  
 
-  **Bachelor Theses Supervision**  
+  *Bachelor Theses Supervision*  
   - *Anis Ben-Ghanem* (Feb. 2023 – Jun. 2023)  
     Thesis: *Client Selection in Hierarchical Federated Learning*
 
   - *Julius Rau* (April 2023 – Oct. 2023)  
    Thesis: *Multi-Armed Bandit-Based Client Selection for Federated Learning*
 
-  **Team Project Supervision**  
+  *Team Project Supervision*  
   - Co-supervised a team project for the Software Engineering Course (8 students)  
     Project: *A Multi-Armed Bandit Framework for Movie Recommendation*
